@@ -6,6 +6,8 @@ Symptom Checker is a platform which lets user to evaluate their health statuses 
 
 Symptom checker allows Companies to become part of this platform and let them evaluate the health status of their employees. They can select the questionnaires which are available on the platform to be used in their companies.
 
+[Backend (django) repository link ](https://github.com/faizalsha/symptom-checker)
+
 ## Available Scripts
 
 In the project directory, you can run:
