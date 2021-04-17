@@ -1,0 +1,10 @@
+.active-link{
+  font-weight: 800;
+}
+.opacity-50 {
+  opacity: 0.5;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
